@@ -1,0 +1,8 @@
+destination: ./_site
+server: true
+auto:        true
+lsi:         false
+server_port: 4001
+pygments:    true
+markdown:    rdiscount
+permalink:   date
